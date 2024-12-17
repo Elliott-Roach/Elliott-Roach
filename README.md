@@ -7,6 +7,12 @@ My name is Elliott Roach
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+## Operating systems i can use
+![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
 <!--
 **Elliott-Roach/Elliott-Roach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
